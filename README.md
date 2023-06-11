@@ -9,3 +9,7 @@ Admit chance predictor is a web app gives you a percentage score of how likely y
 - College GPA
 
 Then click on predict, to see your chance of getting in calculated as a percentage.
+
+### Try out the Web App:
+__Note:__ The first load may take about 2 minutes.
+> [Web App](https://admit-chance-predictor.onrender.com)
