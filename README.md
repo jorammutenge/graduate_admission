@@ -13,3 +13,5 @@ Then click on predict, to see your chance of getting in calculated as a percenta
 ### Try out the Web App:
 __Note:__ The first load may take about 2 minutes.
 > [Web App](https://admit-chance-predictor.onrender.com)
+
+To run the web app in the terminal run the command `streamlit run app.py`
